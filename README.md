@@ -1,4 +1,4 @@
-# English to Hindi Tarnslation 
+# English to Assamese Tarnslation 
 
 A custom model trained on eng to hindi dataset for translation.
 
